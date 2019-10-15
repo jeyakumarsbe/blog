@@ -12,6 +12,6 @@
  * @var bool
  */
 define( 'WP_USE_THEMES', true );
-die("HI JAYAKUMAR YOU ARE GOOD AT");
+die("DEPLOY YOUR CODE BY GIT JENKINS");
 /** Loads the WordPress Environment and Template */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
